@@ -1,0 +1,3 @@
+[submodule "pybullet_ur5_robotiq"]
+	path = pybullet_ur5_robotiq
+	url = https://github.com/ElectronicElephant/pybullet_ur5_robotiq.git
